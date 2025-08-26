@@ -2,7 +2,7 @@
 # Author : SZETO
 # Version : 2.0
 # URL : https://github.com/Szeto7
-# Update : 06/02/2025 21:10:04 (GMT+8)
+# Update : 08/26/2025 20:07:02 (GMT+8)
 -->
 ![Stars](https://img.shields.io/github/stars/Szeto7/Szeto7?color=FBC02D&style=for-the-badge)
 ![Fork](https://img.shields.io/github/forks/Szeto7/Szeto7?color=00ACC1&style=for-the-badge)
@@ -16,10 +16,7 @@
 <div align="center" valign="center">
     <tr>
         <td align ="center">
-          <img  height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szeto7&layout=compact"/>
-        </td>
-        <td align="center">
-          <img  height="140px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Szeto7&show_icons=true&include_all_commits=true&&rank_icon=github""/>
+          <img  height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szeto7&layout=compact"/>
         </td>
     </tr>
     </div>
