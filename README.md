@@ -1,9 +1,10 @@
 <!-- 
-# Author : SZETO
-# Version : 2.0
-# URL : https://github.com/Szeto7
-# Update : 08/26/2025 20:07:02 (GMT+8)
+# Author : 废宗·Feizong
+# Version : 2.1
+# URL : https://github.com/Feizongg/QX
+# Update : 02/03/2026 10:56:46 (GMT+8)
 -->
+
 ![Stars](https://img.shields.io/github/stars/Szeto7/Szeto7?color=FBC02D&style=for-the-badge)
 ![Fork](https://img.shields.io/github/forks/Szeto7/Szeto7?color=00ACC1&style=for-the-badge)
 ![Follw](https://img.shields.io/github/followers/Szeto7?color=D81B60&style=for-the-badge)
@@ -12,16 +13,14 @@
 ![](https://img.shields.io/github/last-commit/Szeto7/Szeto7?color=5E35B1&style=for-the-badge)
 
 ## 📈 Statistics
+
 <table align="center" valign="center">
 <div align="center" valign="center">
-    <tr>
-        <td align ="center">
-          <img  height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szeto7&layout=compact"/>
-        </td>
-    </tr>
     </div>
 </table>
 <div align="center"><img src="https://raw.githubusercontent.com/Szeto7/Szeto7/refs/heads/output/github-snake.svg" ></div>
 
 ## 📝 Blog
-  - [Quantumult X 配置2.0(小白版)](https://github.com/Szeto7/Quanx)
+
+- [Quantumult X 配置2.0(小白版)](https://github.com/Feizongg/QX)
+
